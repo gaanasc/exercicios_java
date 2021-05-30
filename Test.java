@@ -1,5 +1,10 @@
 public class Test {
   public static void main(String[] args) {
-	System.out.println("bug!");
+	execute();
+  }
+
+  static void executa() {
+    System.out.println("agora ficou pior");
+
   }
 }
